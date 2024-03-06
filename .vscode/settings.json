@@ -1,0 +1,11 @@
+{
+  "folder-indexing.exclude": [
+    "*\\bin\\*",
+    "*\\obj\\*",
+    "*\\.svn\\*",
+    "*\\.git\\*",
+    "*.dll",
+    "*.exe",
+    "*\node_modules*"
+  ]
+}
